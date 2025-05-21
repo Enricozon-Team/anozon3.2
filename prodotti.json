@@ -1,12 +1,12 @@
 {
-    "prodotti": [
-        {
-            "nome": "Mandarino fresco Km 0",
-            "prezzo": "104.00",
-            "imageURL": "https://ez.anozon.it/immagini/mandarino.jpg",
-            "tag": "Più venduto",
-            "tagColor": "#e67a00",
-            "descrizione": "Mandario a Km 0 di altissima qualità. Prodotto da bambini schiavizzati. È arancione"
-        },
-    ]
+  "prodotti": [
+    {
+      "nome": "Mandarino fresco Km 0",
+      "prezzo": "104.00",
+      "imageURL": "https://ez.anozon.it/immagini/mandarino.jpg",
+      "tag": "Più venduto",
+      "tagColor": "#e67a00",
+      "descrizione": "Mandarino a Km 0 di altissima qualità. Prodotto da bambini schiavizzati. È arancione"
+    }
+  ]
 }
