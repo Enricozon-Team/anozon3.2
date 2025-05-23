@@ -7,6 +7,14 @@
       "tag": "Più venduto",
       "tagColor": "#e67a00",
       "descrizione": "Mandarino a Km 0 di altissima qualità. Prodotto da bambini schiavizzati. È arancione"
+    },
+    {
+      "nome": "Matteo Salvini",
+      "prezzo": "69.00",
+      "imageURL": "https://ez.anozon.it/immagini/salvini.jpg",
+      "tag": "",
+      "tagColor": "",
+      "descrizione": "Matteo Salvini, Vice-presidente del Consiglio dei ministri. Si comporta bene se lo trattate con cura, altrimenti ci vediamo nel barcone!"
     }
   ]
 }
